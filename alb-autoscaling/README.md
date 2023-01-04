@@ -4,3 +4,4 @@
  2. Launch configuration
  3. Auto scaling group
  4. Target group
+This code was written using [Terraform Ref](https://www.terraform.io).
